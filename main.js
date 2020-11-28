@@ -1,5 +1,8 @@
 console.log("Hello CyberSoft");
 
+function themNguoiDung() {
+    console.log("dpnguyen themNguoiDung");
+}
 /*
 *   biến
 */
