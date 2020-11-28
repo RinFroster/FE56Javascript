@@ -1,7 +1,11 @@
 console.log("Hello CyberSoft");
 
 function themNguoiDung() {
+<<<<<<< HEAD
     console.log("dpnguyen2 themNguoiDung");
+=======
+    console.log("dpnguyen themNguoiDung");
+>>>>>>> main
 }
 /*
 *   biến
